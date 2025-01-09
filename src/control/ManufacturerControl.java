@@ -48,6 +48,7 @@ public class ManufacturerControl {
     }
    // check push 
     
+    
     public boolean addManufacturer(int manufacturerId, String fullName, long phoneNumber, String address, String email) {
         try {
             Class.forName("net.ucanaccess.jdbc.UcanaccessDriver");
