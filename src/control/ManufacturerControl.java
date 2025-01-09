@@ -47,15 +47,6 @@ public class ManufacturerControl {
         return manufacturers;
     }
     
-    //push
-    
-    
-    
-    //pushh
-
-    
-    
-   // sdljlghaskfhgskfh
     public boolean addManufacturer(int manufacturerId, String fullName, long phoneNumber, String address, String email) {
         try {
             Class.forName("net.ucanaccess.jdbc.UcanaccessDriver");
