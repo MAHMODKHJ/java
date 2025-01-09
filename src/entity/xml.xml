@@ -1,0 +1,17 @@
+<Manufacturers>
+    <Manufacturer>
+        <ID>1</ID>
+        <Name>John's Winery</Name>
+        <Phone>123456789</Phone>
+        <Address>123 Vineyard St</Address>
+        <Email>john@winery.com</Email>
+    </Manufacturer>
+
+    <Manufacturer>
+        <ID>2</ID>
+        <Name>Jane's Wines</Name>
+        <Phone>987654321</Phone>
+        <Address>456 Grapevine Ave</Address>
+        <Email>jane@wines.com</Email>
+    </Manufacturer>
+</Manufacturers>

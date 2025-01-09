@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+    <!-- Manufacturers Section -->
+    <Manufacturers>
+        <Manufacturer>
+            <ID>1</ID>
+            <Name>WineWorks</Name>
+            <Phone>890</Phone>
+            <Address>Street</Address>
+            <Email>wineworks</Email>
+        </Manufacturer>
+        <Manufacturer>
+            <ID>2</ID>
+            <Name>GrapeVine</Name>
+            <Phone>9876543210</Phone>
+            <Address>Grapevine</Address>
+            <Email>grapevine</Email>
+        </Manufacturer>
+    </Manufacturers>
+
+    <!-- Wines Section -->
+    <Wines>
+        <Wine>
+            <CatalogNumber>001</CatalogNumber>
+            <Name>Caberne</Name>
+            <Description>Rich </Description>
+            <Price>50</Price>
+            <ProductionYear>2021</ProductionYear>
+            <ManufacturerID>1</ManufacturerID>
+            <SweetnessLevel>Dry</SweetnessLevel>
+            <Image>cabe</Image>
+        </Wine>
+        <Wine>
+            <CatalogNumber>002</CatalogNumber>
+            <Name>Chardonnay</Name>
+            <Description>Crisp and refreshing white wine</Description>
+            <Price>40</Price>
+            <ProductionYear>2020</ProductionYear>
+            <ManufacturerID>2</ManufacturerID>
+            <SweetnessLevel>Medium</SweetnessLevel>
+            <Image>chardonnay.jpg</Image>
+        </Wine>
+    </Wines>
+</Data>
